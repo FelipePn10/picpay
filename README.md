@@ -95,16 +95,6 @@ O projeto segue uma arquitetura limpa com:
 - Camada de **Repository** (acesso a dados)
 - Integração com **serviços externos** (autorizador e notificador)
 
-## 📹 Vídeo Explicativo
-
-Para uma explicação detalhada da implementação, assista ao vídeo completo:
-[Link para o vídeo](https://example.com/video-explicativo)
-
-## 📂 Repositório com Código
-
-O código completo está disponível em:
-[https://github.com/buildrun-tech/buildrun-desafio-backend-picpay](https://github.com/buildrun-tech/buildrun-desafio-backend-picpay)
-
 ## 🎯 Desafio Original
 
 Consulte o desafio original no repositório do PicPay:
