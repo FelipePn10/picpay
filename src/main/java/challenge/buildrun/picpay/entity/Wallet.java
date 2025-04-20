@@ -1,4 +1,4 @@
-package entity;
+package challenge.buildrun.picpay.entity;
 
 
 import jakarta.persistence.*;
